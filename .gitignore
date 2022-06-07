@@ -1,1 +1,11 @@
 .DS_Store
+.tmp_versions
+*.ko
+*.cmd
+*.o
+*.so
+modules.order
+Module.symvers
+*.mod*
+.idea
+cmake*
